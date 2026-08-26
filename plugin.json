@@ -1,0 +1,13 @@
+{
+  "plugin": "PiskelLauncher",
+  "name": "Piskel Launcher",
+  "author": "George",
+  "version": "0.1",
+  "description": "Opens a locally-hosted Piskel editor inside FPP.",
+  "homepage": "https://github.com/YOURNAME/PiskelLauncher",
+  "menu": {
+    "Content": {
+      "Piskel Editor": "index.php"
+    }
+  }
+}
