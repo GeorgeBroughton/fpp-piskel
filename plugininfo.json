@@ -4,7 +4,7 @@
   "author": "George",
   "version": "0.1",
   "description": "Opens a locally-hosted Piskel editor inside FPP.",
-  "homepage": "https://github.com/YOURNAME/PiskelLauncher",
+  "homepage": "https://github.com/GeorgeBroughton/fpp-piskel",
   "menu": {
     "Content": {
       "Piskel Editor": "index.php"
