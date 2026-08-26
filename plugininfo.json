@@ -1,13 +1,26 @@
 {
-  "plugin": "PiskelLauncher",
-  "name": "Piskel Launcher",
-  "author": "George",
-  "version": "0.1",
-  "description": "Opens a locally-hosted Piskel editor inside FPP.",
-  "homepage": "https://github.com/GeorgeBroughton/fpp-piskel",
-  "menu": {
-    "Content": {
-      "Piskel Editor": "index.php"
-    }
-  }
+    "repoName": "fpp-piskel",
+    "name": "FPP PISKEL",
+    "author": "George Broughton",
+    "description": "Allows you to edit animations directly from your matrix display.",
+    "homeURL": "https://github.com/GeorgeBroughton/fpp-piskel",
+    "srcURL": "https://github.com/GeorgeBroughton/fpp-piskel.git",
+    "bugURL": "https://github.com/GeorgeBroughton/fpp-piskel/issues",
+    "iconURL": "https://raw.githubusercontent.com/GeorgeBroughton/fpp-piskel/master/icon.png",
+    "versions": [
+        {
+            "minFPPVersion": "9.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": "",
+            "allowUpdates": 1
+        },
+        {
+            "minFPPVersion": "10.0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": "",
+            "allowUpdates": 1
+        }
+    ]
 }
